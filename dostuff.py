@@ -12,13 +12,14 @@ emailAllAssignments(pth)
 kill(first, last, sendemail=Boolean, pth)
 '''
 # message = '''
-# Welcome back from break guys!!
-# You should all have gotten an email with your target.
-# Here's your task: If you're caught walking, you're out. Running, skipping, it's fair game, but if I see a picture of you walking, you're done.
+# It goes without saying that Assassin is cancelled for the forseeable future.
+# I'll be sending out more details when things settle down a bit. The loss was hard for me and I'm sure it was for you too. We can work through this together.
 # '''
 # woof.sendall(message, "killers.csv")
 
-# woof.shuffle("killers.csv")
+woof.shuffle("26.csv")
+woof.shuffle("28.csv")
+woof.shuffle("29.csv")
 
 # woof.emailAllAssignments("killers.csv")
 
