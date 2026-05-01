@@ -19,7 +19,6 @@ kill(first, last, sendemail=Boolean, pth)
 
 woof.shuffle("26.csv")
 woof.shuffle("28.csv")
-woof.shuffle("29.csv")
 
 # woof.emailAllAssignments("killers.csv")
 
