@@ -13,10 +13,10 @@
 72,Michael,Huang,mhuang26@andover.edu,34
 118,Zadie,Robinson ,zrobinson26@andover.edu,72
 50,Julian,Tay,jtay26@andover.edu,118
-9,Andre,Wu,awu26@andover.edu,50
-56,Kishan,Clarke,Kclarke26@andover.edu,9
-33,Gracie,Aziabor,gaziabor26@andover.edu,56
-73,Miklosh,Frusztajer,mfrusztajer26@andover.edu,33
+9,Andre,Wu,awu26@andover.edu,50,DEAD2
+56,Kishan,Clarke,Kclarke26@andover.edu,9,DEAD1
+33,Gracie,Aziabor,gaziabor26@andover.edu,56,DEAD2
+73,Miklosh,Frusztajer,mfrusztajer26@andover.edu,33,DEAD2
 68,Marisol ,Tang,mtangrasmussen26@andover.edu,73
 58,lilly,mcinerney,lmcinerney26@andover.edu,68
 126,Maddie,Greenwood,mgreenwood26@andover.edu,58
@@ -25,7 +25,7 @@
 79,Nathan,Egbuna,negbuna26@andover.edu,39,DEAD1
 16,Bailey ,Jean-Pierre,bjeanpierre26@andover.edu,79
 28,Ellie,Huby,ehuby26@andover.edu,16
-95,Quiana,Bell,Qbell26@andover.edu,28
+95,Quiana,Bell,Qbell26@andover.edu,28,DEAD2
 100,Sarah,Bae,Sbae26@andover.edu,95
 105,Sophie,Liang,Sliang26@andover.edu,100
 91,Peter,Silvernail,psilvernail26@andover.edu,105
@@ -43,21 +43,21 @@
 31,Gavin,Spencer ,Gspencer26@gmail.com,19
 4,Alex,Ren,Aren26@andover.edu,31
 117,Yoon,Jeong,sjeong26@andover.edu,4
-17,Brandon,Xu,bxu26@andover.edu,117
+17,Brandon,Xu,bxu26@andover.edu,117,DEAD2
 24,Daisy,Lopez ,dlopezvargas26@andover.edu,17
 127,Maren,Boyle,mboyle26@andover.edu,24,DEAD2
 99,Sammy,Logan,slogan26@andover.edu,127
 84,Oliver,Stabach,ostabach26@andover.edu,99
 12,Annabelle,Wu,ywu26@andover.edu,84
 98,Ruby ,Kokinos,rkokinos26@andover.edu,12
-61,Lola,Aguirre,Laguirre26@andover.edu,98
+61,Lola,Aguirre,Laguirre26@andover.edu,98,DEAD2
 57,lilly,stephenson,lstephenson26@andover.edu,61
 94,Prisha ,Shivani,pshivani26@andover.edu,57
 74,Morgan,Hsu,mhsu26@andover.edu,94
 123,Hillary,Tufino,htufino26@andover.edu ,74
 14,Asher,Egerton Idehen ,aegertonidehen26@andover.edu,123
-78,Nathan,Neu,Nneu26@andover.edu,14
-35,Hannah,Herlihy,Hherlihy26@andover.edu,78
+78,Nathan,Neu,Nneu26@andover.edu,14,DEAD2
+35,Hannah,Herlihy,Hherlihy26@andover.edu,78,DEAD2
 41,Hluma,Mangcu,hmangcu26@andover.edu,35
 25,Dylan ,Siegel ,dsiegel26@andover.edu,41
 86,Ollie,Velez,Ovelez26@andover.edu,25
@@ -71,25 +71,25 @@
 49,julia,song,jsong26@andover.edu,5
 109,tori ,dahl,vdahl26@andover.edu,49
 20,Caroline,Romano,Cromano26@andover.edu,109
-114,Wooba,Song,ssong26@andover.edu,20
+114,Wooba,Song,ssong26@andover.edu,20,DEAD2
 48,Josie,Sarno,jsarno26@andover.edu,114,DEAD2
 76,Narek,Hambardzumyan,nhambardzumyan26@andover.edu,48,DEAD1
 47,jeremy,woodley,jwoodley26@andover.edu,76
 63,Lucas,Benardete,lbenardete26@andover.edu,47
 42,Jackson ,Kayser,jkayser26@andover.edu,63
-2,Ainsley,Muldoon,Amuldoon26@andover.edu,42
+2,Ainsley,Muldoon,Amuldoon26@andover.edu,42,DEAD2
 45,Jeanne,Kosciusko-Morizet ,jkosciuskomorizet26@andover.edu,2
 88,Ophelia,Lee,olee26@andover.edu,45,DEAD2
 71,Maya,Clark,mclark26@andover.edu,88,DEAD1
 15,Ashiq,Kibria,akibria26@andover.edu,71
 112,Willow,Wright,wwright26@andover.edu,15
-26,Elisa ,Lee,elee26@andover.edu,112
+26,Elisa ,Lee,elee26@andover.edu,112,DEAD2
 90,Papa,Paintsil,ppaintsil26@andover.edu,26
 43,Jake ,Marcone ,jmarcone26@andover.edu,90
-22,Claire,Wang,cwang26@andover.edu,43
+22,Claire,Wang,cwang26@andover.edu,43,DEAD2
 80,Nicholas,Koura,nkoura26@andover.edu,22
 128,Caroline,Young,cyoung26@andover.edu,80
-59,Lily,Liu,lliu26@andover.edu,128
+59,Lily,Liu,lliu26@andover.edu,128,DEAD2
 65,Lucy ,Parker ,lparker26@andover.edu,59
 96,Ray,Williams,rwilliams26@andover.edu,65,DEAD1
 122,Emiliano,Bobadilla,ebobadilla26@andover.edu,96
@@ -106,7 +106,7 @@
 52,Kaliah,Fortune,kfortune26@andover.edu,70
 13,Anya,Budzinski ,abudzinski26@andover.edu,52
 8,Anaya,Qamar,aqamar26@andover.edu,13,DEAD1
-106,Sydney,Jan,sjan26@andover.edu,8
+106,Sydney,Jan,sjan26@andover.edu,8,DEAD2
 11,Annabel,Kim,jkim26@andover.edu,106
 53,Keira,Bruen,kbruen26@andover.edu,11
 113,Willy,Park,spark126@andover.edu,53
