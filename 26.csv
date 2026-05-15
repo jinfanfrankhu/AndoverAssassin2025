@@ -46,9 +46,9 @@
 17,Brandon,Xu,bxu26@andover.edu,117,DEAD2
 24,Daisy,Lopez ,dlopezvargas26@andover.edu,17,DEAD4
 127,Maren,Boyle,mboyle26@andover.edu,24,DEAD2
-99,Sammy,Logan,slogan26@andover.edu,127
-84,Oliver,Stabach,ostabach26@andover.edu,99
-12,Annabelle,Wu,ywu26@andover.edu,84
+99,Sammy,Logan,slogan26@andover.edu,127,DEAD7
+84,Oliver,Stabach,ostabach26@andover.edu,99,DEAD7
+12,Annabelle,Wu,ywu26@andover.edu,84,DEAD7
 98,Ruby ,Kokinos,rkokinos26@andover.edu,12
 61,Lola,Aguirre,Laguirre26@andover.edu,98,DEAD2
 57,lilly,stephenson,lstephenson26@andover.edu,61,DEAD5
@@ -62,13 +62,13 @@
 86,Ollie,Velez,Ovelez26@andover.edu,25,DEAD2
 69,Matthew,Shampine,mshampine26@andover.edu,86,DEAD5
 23,Claire,Tong,ctong26@andover.edu,69,DEAD5
-77,Nate,Parker,nparker26@andover.edu,23
-125,Jonathan,Bu,jbu26@andover.edu,77
+77,Nate,Parker,nparker26@andover.edu,23,
+125,Jonathan,Bu,jbu26@andover.edu,77,DEAD6
 110,Tyler,Tran,ttran26@andover.edu,125,DEAD3
-37,Hazel,Cameron,hcameron26@andover.edu,110
+37,Hazel,Cameron,hcameron26@andover.edu,110,DEAD7
 5,Alex,Small,asmall26@andover.edu,37,DEAD4
 49,julia,song,jsong26@andover.edu,5
-109,tori ,dahl,vdahl26@andover.edu,49
+109,tori ,dahl,vdahl26@andover.edu,49,DEAD7
 20,Caroline,Romano,Cromano26@andover.edu,109,DEAD4
 114,Wooba,Song,ssong26@andover.edu,20,DEAD2
 48,Josie,Sarno,jsarno26@andover.edu,114,DEAD2
@@ -93,11 +93,11 @@
 96,Ray,Williams,rwilliams26@andover.edu,65,DEAD1
 122,Emiliano,Bobadilla,ebobadilla26@andover.edu,96,DEAD5
 32,Gavin,Freeman,gfreeman26@andover.edu,122,DEAD1
-82,Niki,Jovanovic,njovanovic26@andover.edu,32
-38,Henry,Hansen,hhansen26@andover.edu,82
+82,Niki,Jovanovic,njovanovic26@andover.edu,32,DEAD7
+38,Henry,Hansen,hhansen26@andover.edu,82,DEAD7
 30,Ethan,Liu,eliu26@andover.edu,38,DEAD2
-83,Nina,Torrens,ntorrens26@andover.edu,30
-54,Keita ,Narusawa,knarusawa26@andover.edu,83
+83,Nina,Torrens,ntorrens26@andover.edu,30,DEAD7
+54,Keita ,Narusawa,knarusawa26@andover.edu,83,DEAD6
 87,Ollie,Kim,okim26@andover.edu,54,DEAD5
 108,Tommy,Ginty,eginty26@andover.edu,87,DEAD4
 107,Tasha ,Bohorad,tbohorad26@andover.edu,108,DEAD4

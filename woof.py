@@ -126,3 +126,34 @@ def emailAllAssignments(pth):
         for row in reader:
             emailAssignment(row[1], row[2], pth)
     print("\nSent all emails!")
+
+def export_alive(pth, out_pth="alive.csv"):
+    alive = []
+    with open(pth, mode='r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if not row:
+                continue
+            status = row[5].strip() if len(row) > 5 else ""
+            if not status:
+                alive.append(row)
+    with open(out_pth, mode='w', encoding='utf-8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerows(alive)
+    print(f"Exported {len(alive)} alive players to {out_pth}")
+
+def export_alive_emails(pth, out_pth="alive_emails.csv"):
+    alive_emails = []
+    with open(pth, mode='r', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if not row:
+                continue
+            status = row[5].strip() if len(row) > 5 else ""
+            if not status:
+                alive_emails.append([row[3].strip()])
+    random.shuffle(alive_emails)
+    with open(out_pth, mode='w', encoding='utf-8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerows(alive_emails)
+    print(f"Exported {len(alive_emails)} alive player emails to {out_pth}")
