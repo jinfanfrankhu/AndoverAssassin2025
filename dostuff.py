@@ -17,11 +17,11 @@ kill(first, last, sendemail=Boolean, pth)
 # '''
 # woof.sendall(message, "killers.csv")
 
-woof.export_alive("26.csv", "alive.csv")
-woof.export_alive_emails("26.csv")
+#woof.export_alive("26.csv", "alive.csv")
+#woof.export_alive_emails("26.csv")
 
-#woof.shuffle("28.csv")
+#woof.shuffle("overall.csv")
 
-# woof.emailAllAssignments("killers.csv")
+#woof.emailAllAssignments("overall.csv")
 
 #woof.kill("Aeva", "Cleare", sendemail=True, pth="killers.csv")
